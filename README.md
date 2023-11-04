@@ -7,7 +7,7 @@
 
 ### ✍️ About Me
 
-- I have been programming for a year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. As a Front-end developer I have made some small projects on React and JavaScript Native 📦. 
+- I have been programming for a 2 years <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. As a Front-end developer I have made some projects on React,  NextJs and JavaScript Native 📦. 
 - I am always ready to work hard gradually improving my hard and soft skills 💪. Nowadays I am a Mentor in The Rolling Scopes School 🚀.
 
 👩‍💻 My areas of specialization include:
