@@ -7,7 +7,7 @@
 ### ✍️ About Me
 
 - I have been programming for a year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. As a Front-end developer I have made some small projects on React and JavaScript Native 📦. 
-- I am always ready to work hard gradually improving my hard and soft skills 💪.
+- I am always ready to work hard gradually improving my hard and soft skills 💪. Nowadays I am a Mentor in The Rolling Scopes School 🚀.
 
 👩‍💻 My areas of specialization include:
 
@@ -18,6 +18,15 @@
   <li>🤝 Teamwork: Collaborative and skilled in cross-functional communication.</li>
   <li>⏰ Deadline Management: Efficient in meeting project timelines and working under pressure.</li>
   <li>🔑 Negotiations & Customer Service: Proficient in negotiations and providing exceptional customer service.</li>
+</ul>
+
+💻 As a Mentor I should: 
+<ul>
+  <li>💡 Teaching students the fundamentals of software development using JavaScript and its associated environment.</li>
+  <li>❓ Organizing weekly meetups with student groups to answer questions and share experiences.</li>
+  <li>📈 Organizing weekly meetups with student groups to answer questions and share experiences.</li>
+  <li>⏰ Deadline Management: Efficient in meeting project timelines and working under pressure.</li>
+  <li>🔍 Checking and evaluating student work, conducting training interviews, and delivering additional lectures.</li>
 </ul>
 
 🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn®](https://www.linkedin.com/in/mikhailmatveichuk/) or via email at mihkailmatveichuk@gmail.com.
@@ -57,6 +66,7 @@
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma badge" />
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge" />
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify badge" />
+     <img src="https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs badge" />
     </div>
   </div>
 
