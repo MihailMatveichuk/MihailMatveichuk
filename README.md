@@ -33,7 +33,7 @@
 🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn®](https://www.linkedin.com/in/mikhailmatveichuk/) or via email at mihkailmatveichuk@gmail.com.
 
 ### ⭐ CodeWars
-![CW](https://www.codewars.com/users/rsschool_71d2c0524cef254e/badges/large) 
+![CW](https://www.codewars.com/users/MikhailMatveichuk%20/badges/large) 
 
 ---
 ###  🛠 &nbsp;Some technologies I like working with :
@@ -69,6 +69,7 @@
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify badge" />
      <img src="https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs badge" />
      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB badge" />
+     <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react badge"/>
     </div>
   </div>
 
