@@ -7,8 +7,8 @@
 
 ### ✍️ About Me
 
-- I have been programming for a 2 years <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. As a Front-end developer I have made some projects on React,  NextJs and JavaScript Native 📦. 
-- I am always ready to work hard gradually improving my hard and soft skills 💪. Nowadays I am a Mentor in The Rolling Scopes School 🚀.
+- My name is Mikhail and I have been passionate about programming for over two years. As a front-end developer, I specialize in React, NextJs and JavaScript Native. When creating projects, I prefer TypeScript. I am dedicated to continuous learning and self-improvement, and great amount of my time I spend serving as a Mentor at The Rolling Scopes School 📦
+- I am eager to join your team and collaborate on meaningful projects that make a positive impact on the world 🚀 
 
 👩‍💻 My areas of specialization include:
 
