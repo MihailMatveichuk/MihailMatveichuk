@@ -24,7 +24,7 @@
 💻 As a Mentor I should: 
 <ul>
   <li>💡 Teaching students the fundamentals of software development using JavaScript and its associated environment.</li>
-  <li>❓ Organizing weekly meetups with student groups to answer questions and share experiences.</li>
+  <li>🗓️ Organizing weekly meetups with student groups to answer questions and share experiences.</li>
   <li>⏰ Deadline Management: Efficient in meeting project timelines and working under pressure.</li>
   <li>🔍 Checking and evaluating student work, conducting training interviews, and delivering additional lectures.</li>
 </ul>
