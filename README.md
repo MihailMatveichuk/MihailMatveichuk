@@ -72,6 +72,7 @@
      <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss" alt="tailwind badge"/>
      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge"/>
      <img src="https://img.shields.io/badge/Nest.js-43853D?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs badge" />
+     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresDB badge" />
     </div>
   </div>
 
