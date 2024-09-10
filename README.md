@@ -71,6 +71,7 @@
      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react-native badge"/>
      <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss" alt="tailwind badge"/>
      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge"/>
+     <img src="https://img.shields.io/badge/Nest.js-43853D?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs badge" />
     </div>
   </div>
 
